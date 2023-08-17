@@ -1,0 +1,45 @@
+[
+   {
+     "name": "Gibson Les Paul Standard",
+     "price": "2499",
+     "description": "The Gibson Les Paul Standard is a legendary electric guitar known for its rich tone and classic design.",
+     "category": "guitars",
+     "imageUrl": "https://www.long-mcquade.com/files/136360/582214ee496d022bbf52c127177ab18d.jpg"
+   },
+   {
+     "name": "Yamaha Grand Piano",
+     "price": "9999",
+     "description": "The Yamaha Grand Piano is a high-quality grand piano with rich sound and exceptional touch.",
+     "category": "pianos",
+     "imageUrl": "https://fr.yamaha.com/fr/files/gp_product_s6x_05abc6d40b26409c4f10adfb689cbaf0.jpg?impolicy=resize&imwid=396&imhei=396"
+   },
+   {
+     "name": "Pearl Masterworks Drum Set",
+     "price": "1999",
+     "description": "The Pearl Masterworks Drum Set is a professional-grade drum kit with excellent sound and craftsmanship.",
+     "category": "drums",
+     "imageUrl": "https://media.sweetwater.com/api/i/q-82__ha-75a262158a1eb90f__hmac-88695d97b38b4811fa0b80f1a6282c941170d93b/images/items/750/MW922N-SFM-large.jpg"
+   },
+   {
+     "name": "Fender Stratocaster",
+     "price": "1499",
+     "description": "The Fender Stratocaster is a versatile electric guitar favored by many musicians for its comfortable playability.",
+     "category": "guitars",
+     "imageUrl": "https://images.reverb.com/image/upload/s--mH1xczT5--/f_auto,t_supersize/v1565285669/odss0wh91ejotlpfsbrq.jpg"
+   },
+   {
+     "name": "Steinway Model D Grand Piano",
+     "price": "29999",
+     "description": "The Steinway Model D Grand Piano is a world-renowned instrument known for its exceptional tone and quality.",
+     "category": "pianos",
+     "imageUrl": "https://www.chuppspianos.com/wp-content/uploads/2018/05/Steinway-Sons-Model-D-334986-Concert-Grand-Piano-Polished-Ebony-Cabinet.jpg"
+   },
+   {
+     "name": "DW Collector's Series Drum Kit",
+     "price": "2499",
+     "description": "The DW Collector's Series Drum Kit is a premium drum set with customizable features and outstanding sound.",
+     "category": "drums",
+     "imageUrl": "https://www.justdrums.com/wp-content/uploads/2015/02/sscKit.jpg"
+   }
+ ]
+ 
